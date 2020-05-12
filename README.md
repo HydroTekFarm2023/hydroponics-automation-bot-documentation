@@ -28,3 +28,6 @@
 [Best pH and EC sensors](https://blog.quickbird.uk/ec-and-ph-sensors-for-arduino-98bb70c756b9)  
 [Arduino Controlled Power Outlets](https://www.circuitbasics.com/build-an-arduino-controlled-power-outlet/)
 
+### Part List
+[Complete Part List for Raspberry Pi Version](https://docs.google.com/spreadsheets/d/1dxO7VFFm7gndGxWptIEqF6BxHbLnzoVgXyoCyA-1YxQ/edit?usp=sharing)
+
